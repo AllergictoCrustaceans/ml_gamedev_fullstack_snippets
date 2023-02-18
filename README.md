@@ -1,29 +1,11 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repository is a compilation of code snippets that showcase the level of programming skills I have with respect to the time the files were uplaoded. 
 
-### What is this repository for? ###
+### What's in this Repo? ###
+- Full_Stack/
+- Machine_Learning/
+- Game_Dev/
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+Each of these folders hold snippets of code from larger private repositories that I am allowed to share publicly. 
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
