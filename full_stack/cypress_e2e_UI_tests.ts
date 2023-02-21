@@ -1,9 +1,9 @@
 /**
- * Crypress UI Functionality end-to-end (e2e) test case:
+ * Cypress UI Functionality end-to-end (e2e) test case:
  * Who: I wrote this.
  * What: Test case is written for a website (private repo) 
  * When: September 22, 2022
- * Why: This e2e test case was necessary for checking the one of the basic UI 
+ * Why: This e2e test case was necessary for checking one of the basic UI 
  * functionalities of the website I started building 
  * (not deployed yet as of Feb. 17, 2023)
  * 
